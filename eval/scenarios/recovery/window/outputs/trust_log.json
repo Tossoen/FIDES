@@ -1,0 +1,702 @@
+[
+  {
+    "timestamp": "20260507_085950",
+    "samples_drawn": 50000,
+    "mean": 0.068,
+    "median": 0.06,
+    "std": 0.04,
+    "variance": 0.002,
+    "ci_95_lower": 0.014,
+    "ci_95_upper": 0.166,
+    "q05": 0.018,
+    "q95": 0.144,
+    "min": 0.001,
+    "max": 0.363,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.022,
+        "variance": 0.0,
+        "ci_95": [
+          0.005,
+          0.053
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.014,
+        "variance": 0.0,
+        "ci_95": [
+          0.003,
+          0.033
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.932,
+        "variance": 0.002,
+        "ci_95": [
+          0.834,
+          0.986
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.495,
+        "variance": 0.003,
+        "ci_95": [
+          0.42,
+          0.632
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_085950.png"
+  },
+  {
+    "timestamp": "20260507_090006",
+    "samples_drawn": 50000,
+    "mean": 0.067,
+    "median": 0.059,
+    "std": 0.039,
+    "variance": 0.002,
+    "ci_95_lower": 0.014,
+    "ci_95_upper": 0.163,
+    "q05": 0.019,
+    "q95": 0.142,
+    "min": 0.001,
+    "max": 0.433,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.021,
+        "variance": 0.0,
+        "ci_95": [
+          0.005,
+          0.052
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.013,
+        "variance": 0.0,
+        "ci_95": [
+          0.003,
+          0.033
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.933,
+        "variance": 0.002,
+        "ci_95": [
+          0.837,
+          0.986
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.494,
+        "variance": 0.003,
+        "ci_95": [
+          0.42,
+          0.628
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090006.png"
+  },
+  {
+    "timestamp": "20260507_090022",
+    "samples_drawn": 50000,
+    "mean": 0.068,
+    "median": 0.06,
+    "std": 0.039,
+    "variance": 0.002,
+    "ci_95_lower": 0.014,
+    "ci_95_upper": 0.164,
+    "q05": 0.019,
+    "q95": 0.143,
+    "min": 0.001,
+    "max": 0.333,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.022,
+        "variance": 0.0,
+        "ci_95": [
+          0.005,
+          0.052
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.014,
+        "variance": 0.0,
+        "ci_95": [
+          0.003,
+          0.033
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.932,
+        "variance": 0.002,
+        "ci_95": [
+          0.836,
+          0.986
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.495,
+        "variance": 0.003,
+        "ci_95": [
+          0.42,
+          0.629
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090022.png"
+  },
+  {
+    "timestamp": "20260507_090038",
+    "samples_drawn": 50000,
+    "mean": 0.069,
+    "median": 0.061,
+    "std": 0.04,
+    "variance": 0.002,
+    "ci_95_lower": 0.015,
+    "ci_95_upper": 0.167,
+    "q05": 0.019,
+    "q95": 0.146,
+    "min": 0.002,
+    "max": 0.387,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.022,
+        "variance": 0.0,
+        "ci_95": [
+          0.005,
+          0.053
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.014,
+        "variance": 0.0,
+        "ci_95": [
+          0.003,
+          0.033
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.931,
+        "variance": 0.002,
+        "ci_95": [
+          0.833,
+          0.985
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.496,
+        "variance": 0.003,
+        "ci_95": [
+          0.421,
+          0.633
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090038.png"
+  },
+  {
+    "timestamp": "20260507_090053",
+    "samples_drawn": 50000,
+    "mean": 0.078,
+    "median": 0.069,
+    "std": 0.043,
+    "variance": 0.002,
+    "ci_95_lower": 0.02,
+    "ci_95_upper": 0.182,
+    "q05": 0.025,
+    "q95": 0.159,
+    "min": 0.001,
+    "max": 0.397,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.025,
+        "variance": 0.0,
+        "ci_95": [
+          0.006,
+          0.058
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.016,
+        "variance": 0.0,
+        "ci_95": [
+          0.004,
+          0.036
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.922,
+        "variance": 0.002,
+        "ci_95": [
+          0.818,
+          0.98
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.509,
+        "variance": 0.004,
+        "ci_95": [
+          0.428,
+          0.655
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090053.png"
+  },
+  {
+    "timestamp": "20260507_090109",
+    "samples_drawn": 50000,
+    "mean": 0.095,
+    "median": 0.086,
+    "std": 0.047,
+    "variance": 0.002,
+    "ci_95_lower": 0.029,
+    "ci_95_upper": 0.209,
+    "q05": 0.036,
+    "q95": 0.184,
+    "min": 0.003,
+    "max": 0.426,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.03,
+        "variance": 0.0,
+        "ci_95": [
+          0.009,
+          0.067
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.019,
+        "variance": 0.0,
+        "ci_95": [
+          0.006,
+          0.042
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.905,
+        "variance": 0.002,
+        "ci_95": [
+          0.791,
+          0.971
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.533,
+        "variance": 0.004,
+        "ci_95": [
+          0.441,
+          0.693
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090109.png"
+  },
+  {
+    "timestamp": "20260507_090125",
+    "samples_drawn": 50000,
+    "mean": 0.155,
+    "median": 0.145,
+    "std": 0.064,
+    "variance": 0.004,
+    "ci_95_lower": 0.058,
+    "ci_95_upper": 0.305,
+    "q05": 0.069,
+    "q95": 0.272,
+    "min": 0.009,
+    "max": 0.592,
+    "meu_recommendation": "stop",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.05,
+        "variance": 0.0,
+        "ci_95": [
+          0.019,
+          0.106
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.035,
+        "variance": 0.001,
+        "ci_95": [
+          0.012,
+          0.116
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.843,
+        "variance": 0.005,
+        "ci_95": [
+          0.663,
+          0.942
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.614,
+        "variance": 0.007,
+        "ci_95": [
+          0.481,
+          0.794
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090125.png"
+  },
+  {
+    "timestamp": "20260507_090141",
+    "samples_drawn": 50000,
+    "mean": 0.302,
+    "median": 0.293,
+    "std": 0.099,
+    "variance": 0.01,
+    "ci_95_lower": 0.136,
+    "ci_95_upper": 0.521,
+    "q05": 0.156,
+    "q95": 0.48,
+    "min": 0.042,
+    "max": 0.754,
+    "meu_recommendation": "monitor",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.11,
+        "variance": 0.003,
+        "ci_95": [
+          0.044,
+          0.23
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.131,
+        "variance": 0.011,
+        "ci_95": [
+          0.027,
+          0.389
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.657,
+        "variance": 0.02,
+        "ci_95": [
+          0.329,
+          0.864
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.778,
+        "variance": 0.008,
+        "ci_95": [
+          0.591,
+          0.931
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090141.png"
+  },
+  {
+    "timestamp": "20260507_090157",
+    "samples_drawn": 50000,
+    "mean": 0.609,
+    "median": 0.613,
+    "std": 0.122,
+    "variance": 0.015,
+    "ci_95_lower": 0.363,
+    "ci_95_upper": 0.833,
+    "q05": 0.401,
+    "q95": 0.803,
+    "min": 0.126,
+    "max": 0.969,
+    "meu_recommendation": "monitor",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.363,
+        "variance": 0.022,
+        "ci_95": [
+          0.134,
+          0.65
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.547,
+        "variance": 0.038,
+        "ci_95": [
+          0.185,
+          0.866
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.253,
+        "variance": 0.017,
+        "ci_95": [
+          0.067,
+          0.569
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.79,
+        "variance": 0.014,
+        "ci_95": [
+          0.517,
+          0.944
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090157.png"
+  },
+  {
+    "timestamp": "20260507_090212",
+    "samples_drawn": 50000,
+    "mean": 0.804,
+    "median": 0.816,
+    "std": 0.09,
+    "variance": 0.008,
+    "ci_95_lower": 0.6,
+    "ci_95_upper": 0.944,
+    "q05": 0.639,
+    "q95": 0.93,
+    "min": 0.332,
+    "max": 0.996,
+    "meu_recommendation": "contiue",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.612,
+        "variance": 0.013,
+        "ci_95": [
+          0.341,
+          0.783
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.827,
+        "variance": 0.011,
+        "ci_95": [
+          0.531,
+          0.956
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.089,
+        "variance": 0.003,
+        "ci_95": [
+          0.022,
+          0.25
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.556,
+        "variance": 0.017,
+        "ci_95": [
+          0.339,
+          0.829
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090212.png"
+  },
+  {
+    "timestamp": "20260507_090228",
+    "samples_drawn": 50000,
+    "mean": 0.877,
+    "median": 0.889,
+    "std": 0.066,
+    "variance": 0.004,
+    "ci_95_lower": 0.722,
+    "ci_95_upper": 0.972,
+    "q05": 0.753,
+    "q95": 0.963,
+    "min": 0.477,
+    "max": 0.999,
+    "meu_recommendation": "contiue",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.703,
+        "variance": 0.006,
+        "ci_95": [
+          0.511,
+          0.816
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.9,
+        "variance": 0.004,
+        "ci_95": [
+          0.75,
+          0.977
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.05,
+        "variance": 0.001,
+        "ci_95": [
+          0.011,
+          0.128
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.445,
+        "variance": 0.01,
+        "ci_95": [
+          0.295,
+          0.683
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090228.png"
+  },
+  {
+    "timestamp": "20260507_090244",
+    "samples_drawn": 50000,
+    "mean": 0.913,
+    "median": 0.922,
+    "std": 0.049,
+    "variance": 0.002,
+    "ci_95_lower": 0.795,
+    "ci_95_upper": 0.981,
+    "q05": 0.821,
+    "q95": 0.975,
+    "min": 0.586,
+    "max": 0.999,
+    "meu_recommendation": "contiue",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.745,
+        "variance": 0.003,
+        "ci_95": [
+          0.605,
+          0.827
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.93,
+        "variance": 0.002,
+        "ci_95": [
+          0.836,
+          0.985
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.035,
+        "variance": 0.0,
+        "ci_95": [
+          0.008,
+          0.082
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.389,
+        "variance": 0.006,
+        "ci_95": [
+          0.281,
+          0.577
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090244.png"
+  },
+  {
+    "timestamp": "20260507_090259",
+    "samples_drawn": 50000,
+    "mean": 0.917,
+    "median": 0.926,
+    "std": 0.047,
+    "variance": 0.002,
+    "ci_95_lower": 0.804,
+    "ci_95_upper": 0.981,
+    "q05": 0.827,
+    "q95": 0.976,
+    "min": 0.584,
+    "max": 0.998,
+    "meu_recommendation": "contiue",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.751,
+        "variance": 0.003,
+        "ci_95": [
+          0.615,
+          0.828
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.934,
+        "variance": 0.001,
+        "ci_95": [
+          0.843,
+          0.985
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.033,
+        "variance": 0.0,
+        "ci_95": [
+          0.007,
+          0.078
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.382,
+        "variance": 0.006,
+        "ci_95": [
+          0.28,
+          0.563
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090259.png"
+  },
+  {
+    "timestamp": "20260507_090315",
+    "samples_drawn": 50000,
+    "mean": 0.92,
+    "median": 0.928,
+    "std": 0.045,
+    "variance": 0.002,
+    "ci_95_lower": 0.811,
+    "ci_95_upper": 0.982,
+    "q05": 0.834,
+    "q95": 0.977,
+    "min": 0.621,
+    "max": 0.998,
+    "meu_recommendation": "contiue",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.753,
+        "variance": 0.003,
+        "ci_95": [
+          0.623,
+          0.829
+        ]
+      },
+      "contiue": {
+        "expected_utility": 0.936,
+        "variance": 0.001,
+        "ci_95": [
+          0.849,
+          0.986
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.032,
+        "variance": 0.0,
+        "ci_95": [
+          0.007,
+          0.076
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.379,
+        "variance": 0.005,
+        "ci_95": [
+          0.278,
+          0.552
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260507_090315.png"
+  }
+]

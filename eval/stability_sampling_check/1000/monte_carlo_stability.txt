@@ -1,0 +1,10 @@
+Monte Carlo Stability
+
+Number of runs: 10
+Samples per run: 1000
+
+Between-run trust mean: 0.500500
+Between-run trust mean SD: 0.004453
+
+Mean CI width: 0.651300
+CI width SD: 0.014032

@@ -1,0 +1,614 @@
+{
+  "reliability:system_uptime": [
+    {
+      "timestamp": 1778143190.991197,
+      "e_positive": 2.7950765575663103,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143206.938925,
+      "e_positive": 3.726768743421747,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143222.598909,
+      "e_positive": 4.658460929277184,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143238.463564,
+      "e_positive": 6.987691393915776,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143254.168187,
+      "e_positive": 6.987691393915776,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143269.775514,
+      "e_positive": 6.987691393915776,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143462.591756,
+      "e_positive": 0.0,
+      "e_negative": 4.472122492106097
+    },
+    {
+      "timestamp": 1778143478.542691,
+      "e_positive": 0.0,
+      "e_negative": 5.217476240790446
+    },
+    {
+      "timestamp": 1778143494.337944,
+      "e_positive": 0.0,
+      "e_negative": 4.844799366448271
+    },
+    {
+      "timestamp": 1778143509.9943,
+      "e_positive": 0.0,
+      "e_negative": 6.7081837381591445
+    },
+    {
+      "timestamp": 1778143525.711991,
+      "e_positive": 0.0,
+      "e_negative": 5.962829989474796
+    },
+    {
+      "timestamp": 1778143541.391151,
+      "e_positive": 0.0,
+      "e_negative": 4.844799366448271
+    },
+    {
+      "timestamp": 1778143557.090283,
+      "e_positive": 0.0,
+      "e_negative": 0.5590153115132619
+    },
+    {
+      "timestamp": 1778143572.773242,
+      "e_positive": 0.9316921858554368,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143588.549173,
+      "e_positive": 2.7950765575663103,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143604.282101,
+      "e_positive": 3.726768743421747,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143620.010553,
+      "e_positive": 4.658460929277184,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143635.782099,
+      "e_positive": 9.316921858554368,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143651.448881,
+      "e_positive": 6.987691393915776,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143667.135248,
+      "e_positive": 6.987691393915776,
+      "e_negative": 0.0
+    }
+  ],
+  "reliability:security_alert_frequency": [
+    {
+      "timestamp": 1778143190.991303,
+      "e_positive": 0.0,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143206.939075,
+      "e_positive": 1.7702151531253296,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143222.599052,
+      "e_positive": 1.7702151531253296,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143238.463681,
+      "e_positive": 3.5404303062506592,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143254.168221,
+      "e_positive": 3.5404303062506592,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143269.775742,
+      "e_positive": 3.5404303062506592,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143462.591809,
+      "e_positive": 0.0,
+      "e_negative": 8.851075765626648
+    },
+    {
+      "timestamp": 1778143478.542854,
+      "e_positive": 0.0,
+      "e_negative": 8.851075765626648
+    },
+    {
+      "timestamp": 1778143494.338135,
+      "e_positive": 0.0,
+      "e_negative": 8.497032735001582
+    },
+    {
+      "timestamp": 1778143509.994434,
+      "e_positive": 0.0,
+      "e_negative": 8.851075765626648
+    },
+    {
+      "timestamp": 1778143525.71208,
+      "e_positive": 0.0,
+      "e_negative": 8.851075765626648
+    },
+    {
+      "timestamp": 1778143541.391328,
+      "e_positive": 0.0,
+      "e_negative": 7.78894667375145
+    },
+    {
+      "timestamp": 1778143557.090416,
+      "e_positive": 0.0,
+      "e_negative": 3.5404303062506592
+    },
+    {
+      "timestamp": 1778143572.77343,
+      "e_positive": 0.0,
+      "e_negative": 1.4161721225002637
+    },
+    {
+      "timestamp": 1778143588.54933,
+      "e_positive": 0.0,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143604.282272,
+      "e_positive": 1.7702151531253296,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143620.010653,
+      "e_positive": 1.7702151531253296,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143635.782261,
+      "e_positive": 7.0808606125013185,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143651.449071,
+      "e_positive": 3.5404303062506592,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143667.135404,
+      "e_positive": 3.5404303062506592,
+      "e_negative": 0.0
+    }
+  ],
+  "reliability:authentication_failure_rate": [
+    {
+      "timestamp": 1778143190.991359,
+      "e_positive": 2.6087381203952225,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143206.939171,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143222.599131,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143238.463764,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143254.168242,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143269.775946,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143462.591837,
+      "e_positive": 0.0,
+      "e_negative": 6.521845300988057
+    },
+    {
+      "timestamp": 1778143478.54292,
+      "e_positive": 0.0,
+      "e_negative": 6.521845300988057
+    },
+    {
+      "timestamp": 1778143494.338232,
+      "e_positive": 0.0,
+      "e_negative": 6.260971488948535
+    },
+    {
+      "timestamp": 1778143509.994516,
+      "e_positive": 0.0,
+      "e_negative": 4.695728616711401
+    },
+    {
+      "timestamp": 1778143525.712133,
+      "e_positive": 0.0,
+      "e_negative": 2.608738120395223
+    },
+    {
+      "timestamp": 1778143541.39142,
+      "e_positive": 0.0,
+      "e_negative": 1.0434952481580893
+    },
+    {
+      "timestamp": 1778143557.090497,
+      "e_positive": 0.0,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143572.77354,
+      "e_positive": 1.3043690601976112,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143588.549443,
+      "e_positive": 2.6087381203952225,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143604.282391,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143620.01072,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143635.782369,
+      "e_positive": 6.521845300988057,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143651.449198,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143667.135519,
+      "e_positive": 3.9131071805928337,
+      "e_negative": 0.0
+    }
+  ],
+  "helpfulness:alert_relevance_score": [
+    {
+      "timestamp": 1778143190.99141,
+      "e_positive": 1.15450775532925,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143206.939261,
+      "e_positive": 0.992876669583155,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143222.599206,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143238.463831,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143254.168266,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143269.776126,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143462.591861,
+      "e_positive": 0.0,
+      "e_negative": 0.69270465319755
+    },
+    {
+      "timestamp": 1778143478.542977,
+      "e_positive": 0.0,
+      "e_negative": 0.808155428730475
+    },
+    {
+      "timestamp": 1778143494.338322,
+      "e_positive": 0.0,
+      "e_negative": 0.669614498090965
+    },
+    {
+      "timestamp": 1778143509.994593,
+      "e_positive": 0.34635232659877496,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143525.71218,
+      "e_positive": 0.992876669583155,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143541.391502,
+      "e_positive": 1.15450775532925,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143557.090563,
+      "e_positive": 1.15450775532925,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143572.773645,
+      "e_positive": 1.15450775532925,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143588.549556,
+      "e_positive": 1.15450775532925,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143604.2825,
+      "e_positive": 0.992876669583155,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143620.010801,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143635.782468,
+      "e_positive": 1.15450775532925,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143651.449315,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143667.135622,
+      "e_positive": 0.83124558383706,
+      "e_negative": 0.0
+    }
+  ],
+  "functionality:sensor_anomaly_rate": [
+    {
+      "timestamp": 1778143190.991459,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143206.93934,
+      "e_positive": 2.674569788159898,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143222.599278,
+      "e_positive": 2.9561034500714665,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143238.463893,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143254.168285,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143269.776297,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143462.591881,
+      "e_positive": 0.0,
+      "e_negative": 3.519170773894603
+    },
+    {
+      "timestamp": 1778143478.54303,
+      "e_positive": 0.0,
+      "e_negative": 3.519170773894603
+    },
+    {
+      "timestamp": 1778143494.338414,
+      "e_positive": 0.0,
+      "e_negative": 3.448787358416711
+    },
+    {
+      "timestamp": 1778143509.994671,
+      "e_positive": 0.0,
+      "e_negative": 1.4076683095578413
+    },
+    {
+      "timestamp": 1778143525.712224,
+      "e_positive": 0.0,
+      "e_negative": 0.5630673238231365
+    },
+    {
+      "timestamp": 1778143541.391578,
+      "e_positive": 0.0,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143557.090625,
+      "e_positive": 1.266901478602057,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143572.773738,
+      "e_positive": 1.6892019714694093,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143588.549653,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143604.282606,
+      "e_positive": 2.674569788159898,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143620.010868,
+      "e_positive": 2.9561034500714665,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143635.782561,
+      "e_positive": 3.2376371119830347,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143651.449442,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143667.135715,
+      "e_positive": 2.1115024643367617,
+      "e_negative": 0.0
+    }
+  ],
+  "functionality:data_completeness": [
+    {
+      "timestamp": 1778143190.991505,
+      "e_positive": 0.879792693473651,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143206.939413,
+      "e_positive": 4.105699236210371,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143222.599347,
+      "e_positive": 5.278756160841906,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143238.463951,
+      "e_positive": 3.0792744271577783,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143254.168303,
+      "e_positive": 3.0792744271577783,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143269.776465,
+      "e_positive": 3.0792744271577783,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143462.591899,
+      "e_positive": 0.0,
+      "e_negative": 4.985491929684022
+    },
+    {
+      "timestamp": 1778143478.543084,
+      "e_positive": 0.0,
+      "e_negative": 5.396061853305059
+    },
+    {
+      "timestamp": 1778143494.338498,
+      "e_positive": 0.0,
+      "e_negative": 5.161450468378752
+    },
+    {
+      "timestamp": 1778143509.994741,
+      "e_positive": 0.0,
+      "e_negative": 4.457616313599831
+    },
+    {
+      "timestamp": 1778143525.712269,
+      "e_positive": 0.0,
+      "e_negative": 3.7537821588209104
+    },
+    {
+      "timestamp": 1778143541.391658,
+      "e_positive": 0.0,
+      "e_negative": 2.815336619115683
+    },
+    {
+      "timestamp": 1778143557.090682,
+      "e_positive": 0.0,
+      "e_negative": 1.1730569246315345
+    },
+    {
+      "timestamp": 1778143572.773858,
+      "e_positive": 0.0,
+      "e_negative": 0.23461138492630695
+    },
+    {
+      "timestamp": 1778143588.549762,
+      "e_positive": 0.879792693473651,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143604.2827,
+      "e_positive": 4.105699236210371,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143620.010932,
+      "e_positive": 5.278756160841906,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143635.782661,
+      "e_positive": 5.278756160841906,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143651.449555,
+      "e_positive": 3.0792744271577783,
+      "e_negative": 0.0
+    },
+    {
+      "timestamp": 1778143667.13581,
+      "e_positive": 3.0792744271577783,
+      "e_negative": 0.0
+    }
+  ]
+}

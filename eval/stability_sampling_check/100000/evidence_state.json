@@ -1,0 +1,44 @@
+{
+  "reliability:system_uptime": [
+    {
+      "timestamp": 1778507563.787463,
+      "e_positive": 0.0,
+      "e_negative": 0.025311054110967877
+    }
+  ],
+  "reliability:security_alert_frequency": [
+    {
+      "timestamp": 1778507563.787534,
+      "e_positive": 0.0,
+      "e_negative": 0.03526673539461524
+    }
+  ],
+  "reliability:authentication_failure_rate": [
+    {
+      "timestamp": 1778507563.787582,
+      "e_positive": 0.0,
+      "e_negative": 0.014174190302142009
+    }
+  ],
+  "helpfulness:alert_relevance_score": [
+    {
+      "timestamp": 1778507563.78763,
+      "e_positive": 0.06707429339406487,
+      "e_negative": 0.0
+    }
+  ],
+  "functionality:sensor_anomaly_rate": [
+    {
+      "timestamp": 1778507563.787674,
+      "e_positive": 0.0,
+      "e_negative": 0.020122288018219456
+    }
+  ],
+  "functionality:data_completeness": [
+    {
+      "timestamp": 1778507563.787719,
+      "e_positive": 0.03144107502846791,
+      "e_negative": 0.0
+    }
+  ]
+}

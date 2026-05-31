@@ -1,0 +1,109 @@
+{
+  "beliefs": [
+    {
+      "belief_id": "reliability",
+      "c_positive": 0.8,
+      "c_negative": 0.8,
+      "rho_positive": 0.6,
+      "rho_negative": 0.6,
+      "indicators": [
+        {
+          "indicator_id": "system_uptime",
+          "w_positive": 1.0,
+          "w_negative": 1.0,
+          "influence_values": [
+            { "x": 20, "p_positive": 0.0, "p_negative": 1.0 },
+            { "x": 60, "p_positive": 0.0, "p_negative": 0.8 },
+            { "x": 85, "p_positive": 0.0, "p_negative": 0.3 },
+            { "x": 90, "p_positive": 0.0, "p_negative": 0.0 },
+            { "x": 95, "p_positive": 0.5, "p_negative": 0.0 },
+            { "x": 97, "p_positive": 1.0, "p_negative": 0.0 }
+          ]
+        },
+        {
+          "indicator_id": "security_alert_frequency",
+          "w_positive": 0.95,
+          "w_negative": 0.95,
+          "influence_values": [
+            { "x": 0, "p_positive": 1.0, "p_negative": 0.0 },
+            { "x": 2, "p_positive": 0.6, "p_negative": 0.0 },
+            { "x": 5, "p_positive": 0.0, "p_negative": 0.0 },
+            { "x": 10, "p_positive": 0.0, "p_negative": 0.4 },
+            { "x": 20, "p_positive": 0.0, "p_negative": 0.8 },
+            { "x": 30, "p_positive": 0.0, "p_negative": 1.0 }
+          ]
+        },
+        {
+          "indicator_id": "authentication_failure_rate",
+          "w_positive": 0.7,
+          "w_negative": 0.7,
+          "influence_values": [
+            { "x": 0, "p_positive": 1.0, "p_negative": 0.0 },
+            { "x": 2, "p_positive": 0.6, "p_negative": 0.0 },
+            { "x": 5, "p_positive": 0.0, "p_negative": 0.0 },
+            { "x": 10, "p_positive": 0.0, "p_negative": 0.4 },
+            { "x": 20, "p_positive": 0.0, "p_negative": 0.8 },
+            { "x": 35, "p_positive": 0.0, "p_negative": 1.0 }
+          ]
+        }
+      ]
+    },
+    {
+      "belief_id": "helpfulness",
+      "c_positive": 0.8,
+      "c_negative": 0.8,
+      "rho_positive": 0.6,
+      "rho_negative": 0.6,
+      "indicators": [
+        {
+          "indicator_id": "alert_relevance_score",
+          "w_positive": 1.0,
+          "w_negative": 1.0,
+          "influence_values": [
+            { "x": 10, "p_positive": 0.0, "p_negative": 1.0 },
+            { "x": 30, "p_positive": 0.0, "p_negative": 0.7 },
+            { "x": 50, "p_positive": 0.0, "p_negative": 0.3 },
+            { "x": 60, "p_positive": 0.0, "p_negative": 0.0 },
+            { "x": 70, "p_positive": 0.3, "p_negative": 0.0 },
+            { "x": 75, "p_positive": 1.0, "p_negative": 0.0 }
+          ]
+        }
+      ]
+    },
+    {
+      "belief_id": "functionality",
+      "c_positive": 0.8,
+      "c_negative": 0.8,
+      "rho_positive": 0.6,
+      "rho_negative": 0.6,
+      "indicators": [
+        {
+          "indicator_id": "sensor_anomaly_rate",
+          "w_positive": 0.6,
+          "w_negative": 0.6,
+          "influence_values": [
+            { "x": 0, "p_positive": 1.0, "p_negative": 0.0 },
+            { "x": 5, "p_positive": 0.6, "p_negative": 0.0 },
+            { "x": 10, "p_positive": 0.0, "p_negative": 0.0 },
+            { "x": 20, "p_positive": 0.0, "p_negative": 0.4 },
+            { "x": 30, "p_positive": 0.0, "p_negative": 0.8 },
+            { "x": 40, "p_positive": 0.0, "p_negative": 1.0 }
+          ]
+        },
+        {
+          "indicator_id": "data_completeness",
+          "w_positive": 1.0,
+          "w_negative": 1.0,
+          "influence_values": [
+            { "x": 30, "p_positive": 0.0, "p_negative": 1.0 },
+            { "x": 50, "p_positive": 0.0, "p_negative": 0.8 },
+            { "x": 80, "p_positive": 0.0, "p_negative": 0.2 },
+            { "x": 85, "p_positive": 0.0, "p_negative": 0.0 },
+            { "x": 93, "p_positive": 0.6, "p_negative": 0.0 },
+            { "x": 97, "p_positive": 1.0, "p_negative": 0.0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "context_id": "iot_sensor",
+  "target": "IoT sensor",
+  "beliefs": [
+    {
+      "belief_id": "reliability",
+      "indicators": [
+        {
+          "indicator_id": "system_uptime",
+          "source": {
+            "type": "json",
+            "path": "metrics.json"
+          },
+          "parser": {
+            "method": "scalar",
+            "field": "system_uptime"
+          },
+          "lifetime": {
+            "mode": "replace"
+          },
+          "translation": {
+            "method": "function",
+            "rules": [
+              {
+                "x": 20,
+                "e_positive": 0.0,
+                "e_negative": 19.490727843124077
+              },
+              {
+                "x": 60,
+                "e_positive": 0.0,
+                "e_negative": 15.592582274499263
+              },
+              {
+                "x": 85,
+                "e_positive": 0.0,
+                "e_negative": 5.847218352937223
+              },
+              {
+                "x": 90,
+                "e_positive": 0.0,
+                "e_negative": 0.0
+              },
+              {
+                "x": 95,
+                "e_positive": 9.745363921562038,
+                "e_negative": 0.0
+              },
+              {
+                "x": 97,
+                "e_positive": 19.490727843124077,
+                "e_negative": 0.0
+              }
+            ]
+          }
+        },
+        {
+          "indicator_id": "security_alert_frequency",
+          "source": {
+            "type": "json",
+            "path": "metrics.json"
+          },
+          "parser": {
+            "method": "scalar",
+            "field": "security_alert_frequency"
+          },
+          "lifetime": {
+            "mode": "replace"
+          },
+          "translation": {
+            "method": "function",
+            "rules": [
+              {
+                "x": 0,
+                "e_positive": 18.51619145096787,
+                "e_negative": 0.0
+              },
+              {
+                "x": 2,
+                "e_positive": 11.109714870580722,
+                "e_negative": 0.0
+              },
+              {
+                "x": 5,
+                "e_positive": 0.0,
+                "e_negative": 0.0
+              },
+              {
+                "x": 10,
+                "e_positive": 0.0,
+                "e_negative": 7.406476580387149
+              },
+              {
+                "x": 20,
+                "e_positive": 0.0,
+                "e_negative": 14.812953160774297
+              },
+              {
+                "x": 30,
+                "e_positive": 0.0,
+                "e_negative": 18.51619145096787
+              }
+            ]
+          }
+        },
+        {
+          "indicator_id": "authentication_failure_rate",
+          "source": {
+            "type": "json",
+            "path": "metrics.json"
+          },
+          "parser": {
+            "method": "scalar",
+            "field": "authentication_failure_rate"
+          },
+          "lifetime": {
+            "mode": "replace"
+          },
+          "translation": {
+            "method": "function",
+            "rules": [
+              {
+                "x": 0,
+                "e_positive": 13.643509490186853,
+                "e_negative": 0.0
+              },
+              {
+                "x": 2,
+                "e_positive": 8.186105694112111,
+                "e_negative": 0.0
+              },
+              {
+                "x": 5,
+                "e_positive": 0.0,
+                "e_negative": 0.0
+              },
+              {
+                "x": 10,
+                "e_positive": 0.0,
+                "e_negative": 5.4574037960747415
+              },
+              {
+                "x": 20,
+                "e_positive": 0.0,
+                "e_negative": 10.914807592149483
+              },
+              {
+                "x": 35,
+                "e_positive": 0.0,
+                "e_negative": 13.643509490186853
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "belief_id": "helpfulness",
+      "indicators": [
+        {
+          "indicator_id": "alert_relevance_score",
+          "source": {
+            "type": "json",
+            "path": "metrics.json"
+          },
+          "parser": {
+            "method": "scalar",
+            "field": "alert_relevance_score"
+          },
+          "lifetime": {
+            "mode": "replace"
+          },
+          "translation": {
+            "method": "function",
+            "rules": [
+              {
+                "x": 10,
+                "e_positive": 0.0,
+                "e_negative": 51.6504287842788
+              },
+              {
+                "x": 30,
+                "e_positive": 0.0,
+                "e_negative": 36.15530014899516
+              },
+              {
+                "x": 50,
+                "e_positive": 0.0,
+                "e_negative": 15.49512863528364
+              },
+              {
+                "x": 60,
+                "e_positive": 0.0,
+                "e_negative": 0.0
+              },
+              {
+                "x": 70,
+                "e_positive": 15.49512863528364,
+                "e_negative": 0.0
+              },
+              {
+                "x": 75,
+                "e_positive": 51.6504287842788,
+                "e_negative": 0.0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "belief_id": "functionality",
+      "indicators": [
+        {
+          "indicator_id": "sensor_anomaly_rate",
+          "source": {
+            "type": "json",
+            "path": "metrics.json"
+          },
+          "parser": {
+            "method": "scalar",
+            "field": "sensor_anomaly_rate"
+          },
+          "lifetime": {
+            "mode": "replace"
+          },
+          "translation": {
+            "method": "function",
+            "rules": [
+              {
+                "x": 0,
+                "e_positive": 19.368910794104547,
+                "e_negative": 0.0
+              },
+              {
+                "x": 5,
+                "e_positive": 11.621346476462728,
+                "e_negative": 0.0
+              },
+              {
+                "x": 10,
+                "e_positive": 0.0,
+                "e_negative": 0.0
+              },
+              {
+                "x": 20,
+                "e_positive": 0.0,
+                "e_negative": 7.747564317641819
+              },
+              {
+                "x": 30,
+                "e_positive": 0.0,
+                "e_negative": 15.495128635283638
+              },
+              {
+                "x": 40,
+                "e_positive": 0.0,
+                "e_negative": 19.368910794104547
+              }
+            ]
+          }
+        },
+        {
+          "indicator_id": "data_completeness",
+          "source": {
+            "type": "json",
+            "path": "metrics.json"
+          },
+          "parser": {
+            "method": "scalar",
+            "field": "data_completeness"
+          },
+          "lifetime": {
+            "mode": "replace"
+          },
+          "translation": {
+            "method": "function",
+            "rules": [
+              {
+                "x": 30,
+                "e_positive": 0.0,
+                "e_negative": 32.28151799017425
+              },
+              {
+                "x": 50,
+                "e_positive": 0.0,
+                "e_negative": 25.8252143921394
+              },
+              {
+                "x": 80,
+                "e_positive": 0.0,
+                "e_negative": 6.45630359803485
+              },
+              {
+                "x": 85,
+                "e_positive": 0.0,
+                "e_negative": 0.0
+              },
+              {
+                "x": 93,
+                "e_positive": 19.36891079410455,
+                "e_negative": 0.0
+              },
+              {
+                "x": 97,
+                "e_positive": 32.28151799017425,
+                "e_negative": 0.0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

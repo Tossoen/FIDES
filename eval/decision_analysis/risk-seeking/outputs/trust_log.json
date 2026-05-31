@@ -1,0 +1,81 @@
+[
+  {
+    "timestamp": "20260510_121911",
+    "samples_drawn": 50000,
+    "mean": 0.711,
+    "median": 0.715,
+    "std": 0.062,
+    "variance": 0.004,
+    "ci_95_lower": 0.574,
+    "ci_95_upper": 0.823,
+    "q05": 0.603,
+    "q95": 0.805,
+    "min": 0.351,
+    "max": 0.933,
+    "beliefs": {
+      "reliability": {
+        "positive_evidence": 0.0,
+        "negative_evidence": 3.818,
+        "dynamic_weight": 0.214,
+        "mean": 0.173,
+        "variace": 0.021,
+        "ci_95_lower": 0.006,
+        "ci_95_upper": 0.531
+      },
+      "helpfulness": {
+        "positive_evidence": 11.42,
+        "negative_evidence": 0.0,
+        "dynamic_weight": 0.639,
+        "mean": 0.925,
+        "variace": 0.005,
+        "ci_95_lower": 0.745,
+        "ci_95_upper": 0.998
+      },
+      "functionality": {
+        "positive_evidence": 1.606,
+        "negative_evidence": 1.028,
+        "dynamic_weight": 0.147,
+        "mean": 0.561,
+        "variace": 0.044,
+        "ci_95_lower": 0.153,
+        "ci_95_upper": 0.922
+      }
+    },
+    "meu_recommendation": "explore",
+    "expected_utilities": {
+      "explore": {
+        "expected_utility": 0.871,
+        "variance": 0.001,
+        "ci_95": [
+          0.8,
+          0.924
+        ]
+      },
+      "continue": {
+        "expected_utility": 0.813,
+        "variance": 0.002,
+        "ci_95": [
+          0.717,
+          0.889
+        ]
+      },
+      "stop": {
+        "expected_utility": 0.089,
+        "variance": 0.001,
+        "ci_95": [
+          0.037,
+          0.183
+        ]
+      },
+      "monitor": {
+        "expected_utility": 0.4,
+        "variance": 0.003,
+        "ci_95": [
+          0.28,
+          0.485
+        ]
+      }
+    },
+    "corresponding_plot": "outputs/trust_distribution_20260510_121911.png"
+  }
+]

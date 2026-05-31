@@ -1,0 +1,114 @@
+{
+  "updates": [
+    {
+      "count": 0,
+      "observations": {
+        "system_uptime": 96,
+        "security_alert_frequency": 3,
+        "authentication_failure_rate": 2,
+        "alert_relevance_score": 72,
+        "sensor_anomaly_rate": 5,
+        "data_completeness": 92
+      }
+    },
+    {
+      "count": 1,
+      "observations": {
+        "system_uptime": 97,
+        "security_alert_frequency": 2,
+        "authentication_failure_rate": 1,
+        "alert_relevance_score": 74,
+        "sensor_anomaly_rate": 4,
+        "data_completeness": 94
+      }
+    },
+    {
+      "count": 2,
+      "observations": {
+        "system_uptime": 95,
+        "security_alert_frequency": 4,
+        "authentication_failure_rate": 3,
+        "alert_relevance_score": 70,
+        "sensor_anomaly_rate": 6,
+        "data_completeness": 90
+      }
+    },
+    {
+      "count": 3,
+      "observations": {
+        "system_uptime": 96,
+        "security_alert_frequency": 3,
+        "authentication_failure_rate": 2,
+        "alert_relevance_score": 73,
+        "sensor_anomaly_rate": 5,
+        "data_completeness": 92
+      }
+    },
+    {
+      "count": 4,
+      "observations": {
+        "system_uptime": 94,
+        "security_alert_frequency": 5,
+        "authentication_failure_rate": 4,
+        "alert_relevance_score": 68,
+        "sensor_anomaly_rate": 7,
+        "data_completeness": 88
+      }
+    },
+    {
+      "count": 5,
+      "observations": {
+        "system_uptime": 97,
+        "security_alert_frequency": 2,
+        "authentication_failure_rate": 2,
+        "alert_relevance_score": 75,
+        "sensor_anomaly_rate": 4,
+        "data_completeness": 94
+      }
+    },
+    {
+      "count": 6,
+      "observations": {
+        "system_uptime": 96,
+        "security_alert_frequency": 3,
+        "authentication_failure_rate": 2,
+        "alert_relevance_score": 72,
+        "sensor_anomaly_rate": 5,
+        "data_completeness": 91
+      }
+    },
+    {
+      "count": 7,
+      "observations": {
+        "system_uptime": 95,
+        "security_alert_frequency": 4,
+        "authentication_failure_rate": 3,
+        "alert_relevance_score": 69,
+        "sensor_anomaly_rate": 6,
+        "data_completeness": 89
+      }
+    },
+    {
+      "count": 8,
+      "observations": {
+        "system_uptime": 97,
+        "security_alert_frequency": 2,
+        "authentication_failure_rate": 1,
+        "alert_relevance_score": 74,
+        "sensor_anomaly_rate": 4,
+        "data_completeness": 93
+      }
+    },
+    {
+      "count": 9,
+      "observations": {
+        "system_uptime": 96,
+        "security_alert_frequency": 3,
+        "authentication_failure_rate": 2,
+        "alert_relevance_score": 73,
+        "sensor_anomaly_rate": 5,
+        "data_completeness": 92
+      }
+    }
+  ]
+}

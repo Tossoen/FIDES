@@ -1,0 +1,8 @@
+{
+  "system_uptime": 85,
+  "security_alert_frequency": 11,
+  "authentication_failure_rate": 8,
+  "alert_relevance_score": 70,
+  "sensor_anomaly_rate": 16,
+  "data_completeness": 88
+}
